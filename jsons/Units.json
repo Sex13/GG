@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Settler",
+        "unitType": "Civilian",
+        "movement": 0,
+        "strength": 1,
+        "uniques": ["Founds a new city"]
+    },
+
+    {
+        "name": "Monke",
+        "unitType": "Monkey",
+        "movement": 2,
+        "strength": 10,
+        "uniques": [
+            "[This Unit] heals [5] HP <upon turn end>"
+        
+        ]
+    },
+
+    {
+        "name": "Edik",
+        "unitType": "Monkey",
+        "movement": 2,
+        "strength": 10,
+        "uniques": ["No damage penalty for wounded units"]
+    },
+
+    {
+        "name": "Tankie",
+        "unitType": "Monkey",
+        "movement": 2,
+        "strength": 10,
+        "uniques": [
+            "Free [Tankless] appears <upon being defeated>"
+        ]
+    },
+    {
+        "name": "Tankless",
+        "unitType": "Monkey",
+        "movement": 2,
+        "strength": 10,
+        "uniques": [
+            "[This Unit] takes [50] damage",
+            "Can transform to [Tankie] <when above [99] HP>"
+        ]
+    }
+]

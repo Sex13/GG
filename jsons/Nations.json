@@ -1,0 +1,65 @@
+[
+    {
+		"name": "MONKE",
+		"leaderName": "",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		"tradeRequest": "",
+		"outerColor": [167, 93, 93],
+		"innerColor": [240, 153, 125],
+		"uniqueName": "",
+		"uniques": [
+			"Free [Monke] appears",
+			"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."
+		],
+		"cities": [""]
+	},
+
+	{
+		"name": "EDIK",
+		"leaderName": "",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		"tradeRequest": "",
+		"outerColor": [0,0,0],
+		"innerColor": [142,22,0],
+		"uniqueName": "",
+		"uniques": [
+			"Free [Edik] appears"
+		],
+		"cities": [""]
+	},
+
+	{
+		"name": "TANKIE",
+		"leaderName": "",
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		"tradeRequest": "",
+		"outerColor": [0,0,0],
+		"innerColor": [142,22,0],
+		"uniqueName": "",
+		"uniques": [
+			"Free [Tankie] appears"
+		],
+		"cities": [""]
+	}
+]

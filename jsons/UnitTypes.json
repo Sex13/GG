@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Civilian",
+        "movementType": "Land"
+    },
+    {
+        "name": "Monkey",
+        "movementType": "Land",
+        "uniques": [
+            "[This Unit] takes [5] damage <upon damaging a [Edik] unit>"
+        ]
+    }
+]

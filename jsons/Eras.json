@@ -1,0 +1,15 @@
+[
+    {
+        "name": "WIP",
+        "researchAgreementCost": 0,
+        "startingSettlerCount": 0, 
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 0,
+        "startingMilitaryUnit": "Settler",
+        "settlerPopulation": 1,
+        "baseUnitBuyCost": 0,
+        "embarkDefense": 0,
+        "startPercent": 0,
+        "iconRGB": [255, 255, 255]
+    }
+]
